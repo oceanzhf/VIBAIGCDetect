@@ -1,2 +1,2 @@
 # VIBAIGCDetect
-CLIP+VIB
+VIB-Net
