@@ -16,12 +16,18 @@ Chongqing University of Posts and Telecommunications
 
 The code repository for “Towards Universal AI-Generated Image Detection by Variational Information Bottleneck Network (CVPR 2025)” in PyTorch. 
 
-### TODO
+### Pretrained Checkpoints
 
----
+| Training Set | URL |
+|----------|----------|
+| Stable Diffusion v1.4   | <a href="">百度网盘</a>, <a href="">Google Drive</a>  |
+| ProGAN   | <a href="">百度网盘</a>, <a href="">Google Drive</a> |
 
-- [x] Release model checkpoints.
-- [ ] Release training codes.
+### Inference
+
+```python
+python validate.py --ckpt {Test path}
+```
 
 ### Citation
 
