@@ -2,7 +2,7 @@
     
 <h1>Towards Universal AI-Generated Image Detection by Variational Information Bottleneck Network</h1>
 
-Haifeng Zhang, Qinghui He, Xiuli Bi, Weisheng Li, Bo Liu<sup>*</sup>, Bin Xiao
+Haifeng Zhang, Qinghui He, <a href="https://scholar.google.com.hk/citations?user=1Ezgfw8AAAAJ&hl=zh-CN&oi=sra">Xiuli Bi</a>, <a href="https://scholar.google.com.hk/citations?user=M17E3HEAAAAJ&hl=zh-CN&oi=sra">Weisheng Li</a>, <a href="https://scholar.google.com.hk/citations?user=fXlz210AAAAJ&hl=zh-CN&oi=sra">Bo Liu<sup>*</sup></a>, Bin Xiao
 
 Chongqing University of Posts and Telecommunications
 
