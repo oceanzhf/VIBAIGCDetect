@@ -1,18 +1,18 @@
-<center><h1>Towards Universal AI-Generated Image Detection by Variational Information Bottleneck Network</h1></center>
+<div align="center">
+    
+<h1>Towards Universal AI-Generated Image Detection by Variational Information Bottleneck Network</h1>
 
-<center>Haifeng Zhang, Qinghui He, Xiuli Bi, Weisheng Li, Bo Liu<sup>*</sup>, Bin Xiao</center>
+Haifeng Zhang, Qinghui He, Xiuli Bi, Weisheng Li, Bo Liu<sup>*</sup>, Bin Xiao
 
-<center> Chongqing University of Posts and Telecommunications</center>
+Chongqing University of Posts and Telecommunications
 
-<center> 
-    <a href='https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Towards_Universal_AI-Generated_Image_Detection_by_Variational_Information_Bottleneck_Network_CVPR_2025_paper.pdf'>
-    	<img src='images/paper.png' width="50" height="auto"></img> 
-    Paper</a> 
-</center>
+<a href='https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Towards_Universal_AI-Generated_Image_Detection_by_Variational_Information_Bottleneck_Network_CVPR_2025_paper.pdf'>
+    <img src='images/paper.png' width="30" height="auto"></img>
+    Paper
+</a> 
 
+</div>
 
-
----
 
 The code repository for “Towards Universal AI-Generated Image Detection by Variational Information Bottleneck Network (CVPR 2025)” in PyTorch. 
 
