@@ -29,8 +29,8 @@ The code repository for “Towards Universal AI-Generated Image Detection by Var
 
 | Training Set | URL |
 |----------|----------|
-| Stable Diffusion v1.4   | <a href="https://pan.baidu.com/s/1gDwUfTwQLltqvLD-TYYYGw?pwd=jxuf">百度网盘</a>, <a href="">Google Drive</a>  |
-| ProGAN   | <a href="https://pan.baidu.com/s/1XtOGicgfrMpcklDEKt1c8Q?pwd=s653">百度网盘</a>, <a href="">Google Drive</a> |
+| Stable Diffusion v1.4   | <a href="https://pan.baidu.com/s/1gDwUfTwQLltqvLD-TYYYGw?pwd=jxuf">百度网盘</a>, <a href="https://drive.google.com/file/d/1iaC6MRwM20RhbAFx-7152wL3xZmf8_oN/view?usp=drive_link">Google Drive</a>  |
+| ProGAN   | <a href="https://pan.baidu.com/s/1XtOGicgfrMpcklDEKt1c8Q?pwd=s653">百度网盘</a>, <a href="https://drive.google.com/file/d/1CBC-b65aBQzWpueqA-RFFPAp1c5lzUkw/view?usp=drive_link">Google Drive</a> |
 
 ### 📈 Inference
 
