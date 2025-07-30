@@ -19,8 +19,7 @@ The code repository for “Towards Universal AI-Generated Image Detection by Var
 ### 🚀 Todo List
 - [x] **Testing code**  
 
-- [ ] **Pre-trained models**  
-  coming soon...
+- [x] **Pre-trained models**  
 
 - [ ] **Training code**  
   Currently being organized and refined, planned for release in the near future.
