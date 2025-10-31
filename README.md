@@ -21,8 +21,6 @@ The code repository for “Towards Universal AI-Generated Image Detection by Var
 
 - [x] **Pre-trained models**  
 
-- [ ] **Training code**  
-  Currently being organized and refined, planned for release in the near future.
 
 ### 📦 Pretrained Checkpoints
 
@@ -50,6 +48,7 @@ if you find this code or project useful, please consider giving a star or citing
   year={2025}
 }
 ```
+
 
 
 
